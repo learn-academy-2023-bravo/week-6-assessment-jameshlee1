@@ -10,7 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Your answer: the foreign key would be called cohort_id and added to the student table. Then you rails db:migrate to add a column to the table.
 
-Researched answer:
+Researched answer: a foreign key is a column in a database that are linked to a column in a different table. The foreign key column will be cohort_id and the foreign key Student.
 
 2. Which RESTful routes must always be passed params? Why?
 
